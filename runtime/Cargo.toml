@@ -1,10 +1,10 @@
 [package]
-authors = ['Octopus Network <hi@oct.network>']
+authors = ['Khoart <quykhoa@gmail.com>']
 edition = '2018'
-homepage = 'https://oct.network'
+homepage = 'https://khoart.info'
 license = 'Apache-2.0'
 name = 'appchain-barnacle-runtime'
-repository = 'https://github.com/octopus-network/barnacle'
+repository = 'https://github.com/khoart/octopus-khoart/'
 version = '3.0.0'
 
 [package.metadata.docs.rs]
